@@ -13,7 +13,7 @@ A bar chart of the top 10 bacteria cultures
 
  <img width="569" alt="Bar_chart" src="https://user-images.githubusercontent.com/112206035/217460095-3f490bf3-e8ba-47ec-8ff1-e1e773f084eb.png">
 
-A bubble chart displaying their overall data
+A bubble chart displaying the subject's overall data
 
 <img width="1003" alt="Bubble_chart" src="https://user-images.githubusercontent.com/112206035/217460219-bea4dd1b-e323-4bd8-a096-73047f6d4729.png">
 
