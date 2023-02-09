@@ -1,0 +1,66 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(255, 255, 255);
+
+}
+
+
+  .container-fluid {
+  width: 100%;
+  min-width: 500px;
+  background: #FFF url(../resources/img1.png) center top;
+  padding: 5%;
+}
+
+.navbar-toggler {
+  background-color: #c6fed2
+}
+
+  .well {
+    width: 100%;
+    min-width: 500px;
+    text-align: left;
+    margin: auto;
+    background-color: thistle;
+    position: relative;
+
+  }
+
+  .panel.panel-primary {
+    width: 100%;
+    min-width: 500px;
+    margin: auto;
+    background-color: lavender;
+  }
+
+  .navbar-toggler{
+    width: 100%;
+    min-width: 500px;
+    margin: auto;
+  }
+
+ #bar{
+  position: absolute;
+  top: 0%;
+  right: 0;
+  width: 200px;
+  height: 100px;
+}
+
+  #gauge {
+    position: relative;
+    top: 200px;
+    left: 115%;
+    width: 200px;
+    height: 100px;
+    object-fit: fill;
+  }
+
+  #bubble {
+    position: relative;
+    top: 550px;
+    left: 30%;
+    width: 200px;
+    height: 100px;
+ }
